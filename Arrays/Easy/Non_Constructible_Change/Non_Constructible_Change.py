@@ -5,4 +5,5 @@ def nonConstructibleChange(coins):
         if aCoin > currentChange + 1:
             return currentChange + 1
         currentChange += aCoin
+        
 return currentChange + 1
