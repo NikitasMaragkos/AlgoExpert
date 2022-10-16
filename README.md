@@ -14,7 +14,7 @@
 <br/>
 
 
-| Category | Problem Statement | Difficulty | Solution |
+| Category | Problem | Difficulty | Solution |
 | :------: | ----------------- | :--------: | -------- |
 | Arrays | Two Number Sum | 🟢 | [two-number-sum.py]() |
 | Arrays | Validate Subsequence | 🟢 | [validate-subsequence.py]() |
